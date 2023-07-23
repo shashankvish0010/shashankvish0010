@@ -19,7 +19,7 @@ I'm always excited to collaborate on projects that align with my interests and e
 
 ## 📫 How to reach me ...
 You can reach me through the following channels:
-- LinkedIn: [Shashank Vishwakarma](https://www.linkedin.com/in/shashankvish0010/)
+- LinkedIn: [Shashank Vishwakarma](linkedin.com/in/shashank-vishwakarma-full-stack-developer/)
 - Email: [shashankvishwakarma001@gmail.com]
 
 I'm actively seeking remote internship opportunities to further expand my skills and contribute to the success of innovative startups. If you have any internship opportunities or exciting projects, please don't hesitate to get in touch with me.
