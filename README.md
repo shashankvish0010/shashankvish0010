@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a result-driven MERN Stack Developer with a pa
 
 ## 🌱 I’m currently learning ...
 I believe in continuous learning and improvement. Currently, I'm focused on enhancing my skills in:
-- Advanced front-end development techniques using React.js.
+- Advanced development techniques using TypeScript.
 - Leveraging Node.js to build scalable and efficient server-side applications.
 - Exploring best practices for designing databases and working with MongoDB.
 
