@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @shashankvish0010
 
-Welcome to my GitHub profile! I'm a result-driven MERN Stack Developer with a passion for open source and a strong desire to create innovative solutions. I have experience in developing dynamic web applications using MongoDB, Express.js, React.js, and Node.js. I'm eager to collaborate with cross-functional teams and contribute to projects from inception to completion.
+Welcome to my GitHub profile! I'm a result-driven Full Stack Developer with a passion for open source and a strong desire to create innovative solutions. I have experience in developing dynamic web applications using MongoDB, Express.js, React.js, and Node.js. I'm eager to collaborate with cross-functional teams and contribute to projects from inception to completion.
 
 ## 👀 I’m interested in ...
 - Developing cutting-edge web applications and exploring the latest technologies.
@@ -15,7 +15,7 @@ I believe in continuous learning and improvement. Currently, I'm focused on enha
 - Exploring best practices for designing databases and working with pOstgreSql and MongoDB.
 
 ## 💞️ I’m looking to collaborate on ...
-I'm always excited to collaborate on projects that align with my interests and expertise. If you have any exciting ideas or projects in the MERN stack or related fields, feel free to reach out to me. Let's work together and create something extraordinary!
+I'm always excited to collaborate on projects that align with my interests and expertise. If you have any exciting ideas or projects in the full stack or related fields, feel free to reach out to me. Let's work together and create something extraordinary!
 
 ## 📫 How to reach me ...
 You can reach me through the following channels:
