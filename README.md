@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a result-driven MERN Stack Developer with a pa
 I believe in continuous learning and improvement. Currently, I'm focused on enhancing my skills in:
 - Advanced development techniques using TypeScript.
 - Leveraging Node.js to build scalable and efficient server-side applications.
-- Exploring best practices for designing databases and working with MongoDB.
+- Exploring best practices for designing databases and working with pOstgreSql and MongoDB.
 
 ## 💞️ I’m looking to collaborate on ...
 I'm always excited to collaborate on projects that align with my interests and expertise. If you have any exciting ideas or projects in the MERN stack or related fields, feel free to reach out to me. Let's work together and create something extraordinary!
