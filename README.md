@@ -25,3 +25,5 @@ You can reach me through the following channels:
 I'm actively seeking remote internship opportunities to further expand my skills and contribute to the success of innovative startups. If you have any internship opportunities or exciting projects, please don't hesitate to get in touch with me.
 
 Let's connect and make a positive impact together! 😊
+
+[![An image of @shashankvish0010's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shashankvish0010)](https://holopin.io/@shashankvish0010)
