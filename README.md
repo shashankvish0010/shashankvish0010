@@ -15,7 +15,7 @@ Contributions: [@twenty](https://github.com/twentyhq/twenty)
 
 You can reach me through the following channels:
 - LinkedIn: [Shashank Vishwakarma](https://www.linkedin.com/in/shashank-vishwakarma-full-stack-developer/)
-- Email: [shashankvishwakarma001@gmail.com]
+- Email: [shashankvishwakarma001@gmail.com](shashankvishwakarma001@gmail.com)
 
 Let's connect and make a positive impact together! 😊
 
