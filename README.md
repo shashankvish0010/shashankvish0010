@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a result-driven Full Stack Developer with a pa
 
 💞️ I’m looking to collaborate on ...
 
-I'm actively seeking to collaborate on projects that aligns with my interests and to further expand my skills and contribute to the success of innovative startups. If you have any exciting ideas or projects in the full stack or related fields, feel free to reach out. 
+I'm actively seeking to collaborate on projects that aligns with my interest and to further expand my skills and contribute to the success of innovative startups. If you have any exciting ideas or projects in the full stack or related fields, feel free to reach out. 
 Let's work together and create something extraordinary!
 
 Worked: [@aizen](https://www.linkedin.com/company/aizenautomation/) , [@proponent](https://www.linkedin.com/company/proponentapp/posts/?feedView=all) , [@ballerine](https://github.com/ballerine-io/ballerine)
